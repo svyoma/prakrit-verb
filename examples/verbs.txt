@@ -1,0 +1,20 @@
+# Sample Prakrit verb roots for batch processing
+# Lines starting with # are comments
+
+# Common verbs
+gam
+bhU
+kar
+pac
+nI
+dA
+
+# Vowel-ending roots
+gami
+bhU
+karU
+
+# Consonant-ending roots
+gam
+pac
+vas
